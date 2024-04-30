@@ -1,10 +1,11 @@
 En este repositorio se compite por crear la mejor I.A. entre los integrantes:
 <ul>
-  <li> Jordan Iralde          (Owner) </li>
-  <li> Sebastian Saltzmann    (Contributor) </li>
-  <li> Maximiliano Olmos      (Contributor) </li>
-  <li> Mateo Teresani         (Contributor) </li>
-  <li> Giovanni Peirone       (Contributor) </li>
+  <li> Jordan Iralde          </li>
+  <li> Sebastian Saltzmann    </li>
+  <li> Maximiliano Olmos      </li>
+  <li> Mateo Teresani         </li>
+  <li> Giovanni Peirone       </li>
+  <li> Joshua Reynoso         </li>
 </ul>
 
 <h1> La forma de Evaluar es: </h1>
@@ -20,4 +21,4 @@ En este repositorio se compite por crear la mejor I.A. entre los integrantes:
 
 <p> La fecha limite del proyecto sera el punto medio del proyecto, posteriormente se van a unir los mejores codigos</p>
 
-<h3> La fecha limite: 21/01/2024 </h3>
+<h3> La fecha limite: 31/08/2024 </h3>
