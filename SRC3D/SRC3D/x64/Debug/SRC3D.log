@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\GitHub\jarvis-ia\SRC3D\SRC3D\src\main.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'GLFW/glfw3.h': No such file or directory
