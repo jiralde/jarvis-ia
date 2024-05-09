@@ -1,4 +1,4 @@
-En este repositorio se compite por crear la mejor I.A. entre los integrantes:
+En este repositorio se trabaja por crear la mejor I.A. entre los integrantes:
 <ul>
   <li> Jordan Iralde          </li>
   <li> Sebastian Saltzmann    </li>
