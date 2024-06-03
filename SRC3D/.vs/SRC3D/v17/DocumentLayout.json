@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\jarvis-ia\\SRC3D\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6910CE-379A-42C2-AEA2-6B5CA91F1623}|SRC3D\\SRC3D.vcxproj|D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8F6910CE-379A-42C2-AEA2-6B5CA91F1623}|SRC3D\\SRC3D.vcxproj|solutionrelative:SRC3D\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6910CE-379A-42C2-AEA2-6B5CA91F1623}|SRC3D\\SRC3D.vcxproj|D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\SRC3D.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8F6910CE-379A-42C2-AEA2-6B5CA91F1623}|SRC3D\\SRC3D.vcxproj|solutionrelative:SRC3D\\SRC3D.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 397,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\src\\main.cpp",
-              "RelativeDocumentMoniker": "SRC3D\\src\\main.cpp",
-              "ToolTip": "D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\src\\main.cpp*",
-              "RelativeToolTip": "SRC3D\\src\\main.cpp*",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAvwEAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-09T23:36:39.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SRC3D.vcxproj",
-              "DocumentMoniker": "D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\SRC3D.vcxproj",
-              "RelativeDocumentMoniker": "SRC3D\\SRC3D.vcxproj",
-              "ToolTip": "D:\\GitHub\\jarvis-ia\\SRC3D\\SRC3D\\SRC3D.vcxproj",
-              "RelativeToolTip": "SRC3D\\SRC3D.vcxproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
-              "WhenOpened": "2024-05-09T23:36:29.889Z"
             }
           ]
         },
